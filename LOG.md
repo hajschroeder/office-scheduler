@@ -10,3 +10,4 @@
 # Tuesday 8/30/22
 ### 10:00 am start today's log. Youtube tutorial time!
 ### 10:45 am Firebase tutorials
+### 11:00 am assemble dummy components for project, testing out different approaches
