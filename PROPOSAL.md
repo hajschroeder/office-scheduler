@@ -3,10 +3,10 @@
 Hans J Schroeder
 
 ## Name of Project:
-Schedulease
+SchedulEase
 
 ## Project's Purpose or Goal:
-During the recent Covid-19 pandemic, the nature of work changed for millions of employees across the world. Instead of having an office that people would show up to every day, many employees were forced to shift to a remote model. Now that much of the world is out of lock-down, many people are returning to their offices, while others choose to continue working from home. Others have adopted a hybrid model, splitting their time between remote work and in-office work. Schedulease will be designed as a tool for these types of employees to share their intended work schedule with their coworkers, eliminating confusion about who will be where and when, and to what degree they are available that day.  
+During the recent Covid-19 pandemic, the nature of work changed for millions of employees across the world. Instead of having an office that people would show up to every day, many employees were forced to shift to a remote model. Now that much of the world is out of lock-down, many people are returning to their offices, while others choose to continue working from home. Others have adopted a hybrid model, splitting their time between remote work and in-office work. SchedulEase will be designed as a tool for these types of employees to share their intended work schedule with their coworkers, eliminating confusion about who will be where and when, and to what degree they are available that day.  
 
 ## List the absolute minimum features the project requires to meet this purpose
 - Employees will have the ability to post their main statuses for the day such as whether they are in-office or remote, when they will be on lunch breaks, or when they will be in a meeting. Furthermore, they can indicate if their "door is open" versus "do not disturb"
