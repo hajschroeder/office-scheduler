@@ -21,3 +21,5 @@
 ### 8:05, continue Udemy course. Error Modals
 
 ### 8:35, further work on Error Modals
+
+### 9:00 am, beging learning about Fragments in React
