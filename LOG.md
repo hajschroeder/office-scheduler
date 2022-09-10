@@ -11,3 +11,10 @@
 ### 10:00 am start today's log. Youtube tutorial time!
 ### 10:45 am Firebase tutorials
 ### 11:00 am assemble dummy components for project, testing out different approaches
+
+# Thursday 9/1/22
+### 10:00 am, begin React Course on Udemy (videos at 1.5 speed, Course Overview and Javascript refresher, 1 hr)
+### 11:00 am, React Basics
+
+# Saturday 9/10/22
+### 7:30 am, begin log. Udemy course on React 

@@ -13,7 +13,7 @@ During the recent Covid-19 pandemic, the nature of work changed for millions of 
 - Employees will be able to see the statuses of their coworkers
 - Authorization will be implemented
 
-## What tools, frameworks, libraries, APIs, modules and/or orhter resources will you use to create this MVP?
+## What tools, frameworks, libraries, APIs, modules and/or resources will you use to create this MVP?
 - React for the JavaScript framework
 - Firebase/Firestore for back-end such as Authentication
 - CSS/Bootstrap for styling
