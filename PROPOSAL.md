@@ -30,3 +30,4 @@ During the recent Covid-19 pandemic, the nature of work changed for millions of 
 
 ## Is there anything you'd like your instructor to know? 
 After spending a decent amount of time researching how to do this within the timeframe we have, I feel that building out the MVP with clean, concise code will take the majority of my time. As such, styling is considered low priority at the moment. I am more concerned with having a stylistically unappealing product that works well than I am with a beautiful application that isn't very useable 
+*Update 9/10/22: After having spent much time researching best practices as well as learning more about the purpose and primary function of programming in React, I have come to the decision that styling is just as important as the functional aspect. As such, the above statement is no longer entirely true*
