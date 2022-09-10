@@ -28,4 +28,5 @@
 
 ### 10:00 further research on Portals. Begin research on Refs
 
+### 10:30 further work on Refs
 
