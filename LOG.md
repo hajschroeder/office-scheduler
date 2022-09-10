@@ -22,4 +22,7 @@
 
 ### 8:35, further work on Error Modals
 
-### 9:00 am, beging learning about Fragments in React
+### 9:00 am, begin learning about Fragments in React
+
+### 9:30 implementing Fragments and portalsgit a
+
