@@ -25,9 +25,12 @@ This is a Capstone project built independently by the author for the coding boot
 ## Setup/Installation
 
 * Clone this repository to your local device
-* Open it with an IDE of your preference
+* In git terminal cd into the root directory
+* Run the command `npm install`
+* Run `npm start`. Navigate to `localhost:3000` in your browser
 
-*Note: In it's current state there is no code associated with this repository, just markdown files. As such, there are no further setup instructions*
+
+
 
 ___
 
