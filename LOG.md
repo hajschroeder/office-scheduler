@@ -32,3 +32,7 @@
 
 ### 11:00 Controlled  components
 
+### 11:30 Begin research on 'Side Effects'
+
+
+
