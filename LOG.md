@@ -24,5 +24,8 @@
 
 ### 9:00 am, begin learning about Fragments in React
 
-### 9:30 implementing Fragments and portalsgit a
+### 9:30 implementing Fragments and portals
+
+### 10:00 further research on Portals. Begin research on Refs
+
 
