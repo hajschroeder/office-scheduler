@@ -18,4 +18,6 @@
 
 # Saturday 9/10/22
 ### 7:30 am, begin log. Udemy course on React 
-### 8:35, continue Udemy course. Error Modals
+### 8:05, continue Udemy course. Error Modals
+
+### 8:35, further work on Error Modals
