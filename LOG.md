@@ -36,6 +36,7 @@
 
 # Monday 9/12 
 ### 10:00 am start day
+### 11:00 am useEffect research
 
 
 
