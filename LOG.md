@@ -34,5 +34,8 @@
 
 ### 11:30 Begin research on 'Side Effects'
 
+# Monday 9/12 
+### 10:00 am start day
+
 
 
