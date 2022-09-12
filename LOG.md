@@ -37,6 +37,7 @@
 # Monday 9/12 
 ### 10:00 am start day
 ### 11:00 am useEffect research
+### 1:30 am research in useReduce, refactor practice project to incorporate both useEffect and useReduce
 
 
 
