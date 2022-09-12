@@ -37,7 +37,9 @@
 # Monday 9/12 
 ### 10:00 am start day
 ### 11:00 am useEffect research
-### 1:30 am research in useReduce, refactor practice project to incorporate both useEffect and useReduce
+### 1:30 pm research in useReduce, refactor practice project to incorporate both useEffect and useReduce
+### 3:45 pm successfully built a practice application in another document. The application has custom UI styling components (Card and Button). Users are brought to a log in page. Email and password must be valid. Valid log ins will then be brought to a page that contains a field to post and delete their status as well as a log out button. All functionality is working. Very rough draft of applicaiton. No authentication. Approx halfway to an unimpressive MVP
+
 
 
 
