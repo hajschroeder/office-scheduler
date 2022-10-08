@@ -5,7 +5,7 @@ export async function getAllStatuses() {
   const data = await response.json();
 
   if (!response.ok) {
-    throw newError(data.message || 'Could not find statuses');
+    throw new Error(data.message || 'Could not find statuses');
   }
 
   const transformedStatuses = [];
