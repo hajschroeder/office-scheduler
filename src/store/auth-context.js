@@ -9,8 +9,8 @@ const AuthContext = React.createContext({
 })
 
 const calculateRemainingTime = (expTime) => {
-  const currentTime = newDate().getTime();
-  const adjustExpTime= newDate(expTime).getTime();
+  const currentTime = new Date().getTime();
+  const adjustExpTime= new Date(expTime).getTime();
 
   const remainingDuration= adjustExpTime - currentTime
   return remainingDuration
@@ -18,7 +18,7 @@ const calculateRemainingTime = (expTime) => {
 
 const retrieveStoredToken = () =>{
   const storedToken=localStorage.getItem('token');
-  const storeExpDate = localStorage.getItem('expTime')
+  const storedExpDate = localStorage.getItem('expTime')
 
   const remainingTime = calculateRemainingTime(storedExpDate)
 
