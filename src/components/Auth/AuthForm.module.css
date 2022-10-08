@@ -3,7 +3,7 @@
   width: 95%;
   max-width: 25rem;
   border-radius: 6px;
-  background-color: rgb(31, 112, 35);
+  background-color: rgb(75, 119, 77);
   box-shadow: black;
   padding: 1rem;
   text-align: center;
@@ -11,7 +11,7 @@
 
 auth h1 {
   text-align: center;
-  color: gray;
+  color: rgb(247, 236, 236);
 }
 
 .control {
@@ -20,7 +20,7 @@ auth h1 {
 
 .control label {
   display: block;
-  color: gray;
+  color: rgb(236, 223, 223);
   font-weight: bold;
   margin-bottom: 0.5rem;
 }

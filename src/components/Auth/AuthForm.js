@@ -11,7 +11,7 @@ const AuthForm = () => {
 
   return (
     <section className={classes.auth}>
-      <h1>{isLogin ? : 'Sign Up'}</h1>
+      <h1>{isLogin ? 'Login': 'Sign Up'}</h1>
       <form>
         <div className={classes.control}>
           <label htmlFor='email'>Email Address</label>
