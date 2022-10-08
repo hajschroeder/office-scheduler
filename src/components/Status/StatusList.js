@@ -4,7 +4,7 @@ import { useHistory, useLocation } from "react-router-dom";
 import StatusItem from "./StatusItem";
 import classes from './StatusList.module.css';
 
-const sortStatus = (statuses, ascending) => {
+const sortStatuses = (statuses, ascending) => {
   return statuses.sort((statusA, statusB)=> {
     if(ascending) {
       return statusA.id > statusB.id ? 1 : -1;

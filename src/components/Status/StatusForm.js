@@ -2,7 +2,7 @@ import { Fragment, useRef, useState } from "react";
 import { Prompt } from "react-router-dom";
 import Card from "../UI/Card";
 import LoadWheel from "../UI/LoadWheel";
-import classes from '../StatusForm.module.css'
+import classes from './StatusForm.module.css'
 
 const StatusForm = (props) => {
   const [isEntering, setIsEntering] = useState(false);
