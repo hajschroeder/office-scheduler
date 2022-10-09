@@ -26,9 +26,9 @@ const AuthForm = () => {
     setIsLoading(true);
     let url;
     if (isLogin) {
-      url = 'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyBGljPuubaBimAgmTkdVq9vi9BMnkFA7Qg'
+      url = 'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=nope'
     } else {
-      url = 'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyBGljPuubaBimAgmTkdVq9vi9BMnkFA7Qg'
+      url = 'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=nope'
     }
     fetch(url, {
       method: 'POST',
